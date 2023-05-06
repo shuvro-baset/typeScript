@@ -37,7 +37,7 @@ const adminUser1: AdminUserType = { name: "Mr. Gallu", role: "admin" };
 console.log(getUser(normalUser1));
 console.log(getUser(adminUser1));
 
-//instaceof guard
+//instanceof guard
 
 class Animal {
   name: string;
